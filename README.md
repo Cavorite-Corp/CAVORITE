@@ -1,3 +1,3 @@
-# THIS REPOSITORY WILL NO LONGER BE UPDATED!!! #
+# cavorite: the fiat cryptocurrency #
 
-Visit https://bitbucket.org/Jelurida/nxt for the latest Nxt Reference Software (NRS) releases.
+More details can be accesed under documentation repository.
